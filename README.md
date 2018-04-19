@@ -5,10 +5,10 @@ The first four tasks were designed by Drs. Deanna Gagne & Marie Coppola (Univers
 
 _CITATION: Gagne, D. & Coppola, M. Visible Social Interactions Do Not Support the Development of False Belief Understanding in the Absence of Linguistic Input: Evidence from Deaf Adult Homesigners.  Frontiers in Psychology, 8:837. https://doi.org/10.3389/fpsyg.2017.00837_
 
-  - False Photo - task to assess whether participants can match photo to real display of object
-  - Perspective-taking (Levels 1 & 2) - to see whether participants have spatial cognition/mental rotation skills, similar to Piaget's Mountain Task
-  - False Belief - Unexpected Contents
-  - False Belief - Experience/Reality
+  - False Photo - task to assess whether participants can recall previous reality (which toy was sitting on a chair) after reality has changed 
+  - Perspective-taking (Levels 1 & 2) - to see whether participants have spatial cognition/mental rotation skills, similar to Piaget's Mountain Task [PT1 and PT2]
+  - False Belief - Unexpected Contents [UC1]
+  - False Belief - Appearance/Reality [AR1]
 
 The last task was a modified version of the Corsi block task (details available on request):
   - Corsi block task
